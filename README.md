@@ -1,5 +1,8 @@
 # e-shop
 e-shop is an ecommerce web application
+
+**E-Shop: Your Ultimate E-commerce Solution 🛍️**
+
 Features:
 
 User-friendly Interface: Easy navigation for a smoother shopping experience.
